@@ -1,2 +1,5 @@
 ragecoms-venv
-data/Beauty
+data/Beauty/*
+data/PQA/*
+config/api_config.jsonjson
+
