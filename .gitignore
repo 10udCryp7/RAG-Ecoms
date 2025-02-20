@@ -4,4 +4,6 @@ data/PQA/*
 data/Electronics/*
 data/Electronics_2023/*
 config/api_config.json
-
+data
+.env
+rag_ecoms
